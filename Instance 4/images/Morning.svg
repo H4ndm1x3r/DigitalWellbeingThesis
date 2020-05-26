@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="108px" viewBox="0 0 107 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Morning</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="127" height="70"></rect>
+    </defs>
+    <g id="Morning" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-10.000000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle"></g>
+            <ellipse id="Oval" stroke="#222222" stroke-width="4" mask="url(#mask-2)" cx="62.5" cy="62" rx="22.5" ry="22"></ellipse>
+        </g>
+        <line x1="1.5" y1="68.5" x2="104.5" y2="68.5" id="Line" stroke="#222222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+        <g id="Group" transform="translate(5.000000, 14.000000)" stroke="#222222" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <line x1="0.203012934" y1="42.0863198" x2="12.8702978" y2="43.008785" id="Line-Copy" transform="translate(6.536655, 42.547552) rotate(2.000000) translate(-6.536655, -42.547552) "></line>
+            <line x1="8.19370418" y1="16.6416786" x2="18.1499816" y2="24.8961154" id="Line-Copy-2" transform="translate(13.171843, 20.768897) rotate(2.000000) translate(-13.171843, -20.768897) "></line>
+            <line x1="31.0868924" y1="0.618669397" x2="35.6161723" y2="12.5372237" id="Line-Copy-3" transform="translate(33.351532, 6.577947) rotate(2.000000) translate(-33.351532, -6.577947) "></line>
+            <line x1="58.917525" y1="1.2473399" x2="56.2081784" y2="12.2459203" id="Line-Copy-4" transform="translate(57.562852, 6.746630) rotate(2.000000) translate(-57.562852, -6.746630) "></line>
+            <line x1="82.4712279" y1="15.2689765" x2="73.4272008" y2="23.5146938" id="Line-Copy-5" transform="translate(77.949214, 19.391835) rotate(2.000000) translate(-77.949214, -19.391835) "></line>
+            <line x1="94.1562961" y1="40.1690192" x2="82.3954485" y2="42.9135779" id="Line-Copy-6" transform="translate(88.275872, 41.541299) rotate(2.000000) translate(-88.275872, -41.541299) "></line>
+        </g>
+    </g>
+</svg>
